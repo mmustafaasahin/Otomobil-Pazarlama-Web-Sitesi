@@ -1,0 +1,163 @@
+@font-face 
+	{
+		font-family: 'glametrixregular';
+		src: url('glametrix-webfont.html');
+		src: url('glametrix-webfontd41d.html?#iefix') format('embedded-opentype'),
+			 url('glametrix-webfont-2.html') format('woff'),
+			 url('glametrix-webfont-3.html') format('truetype'),
+			 url('glametrix-webfont.svg#glametrixregular') format('svg');
+	}
+.index_icerik_1
+	{
+		font-family: 'glametrixregular';
+		font-size:20px;
+		color:#515151;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+.index_link_1
+	{
+		font-family: 'glametrixregular';
+		font-size:20px;
+		color:#de0124;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:underline;
+		line-height:20px;
+	}
+a.index_link_1:hover
+	{
+		font-family: 'glametrixregular';
+		font-size:20px;
+		color:#de0124;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+.footer
+	{
+		font-family: 'glametrixregular';
+		font-size:19px;
+		color:#FFFFFF;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+a.footer:hover
+{
+	font-family: 'glametrixregular';
+	font-size:19px;
+	color:#000000;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	line-height:20px;
+}
+.yol
+	{
+		font-family: 'glametrixregular';
+		font-size:15px;
+		color:#FFFFFF;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:15px;
+	}
+a.yol:hover
+	{
+		font-family: 'glametrixregular';
+		font-size:15px;
+		color:#FFFFFF;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:underline;
+		line-height:15px;
+	}
+.icerik_1
+	{
+		font-family: 'glametrixregular';
+		font-size:19px;
+		color:#040c1a;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:18px;
+	}
+.hizlierisim_yazi
+	{
+		font-family: 'glametrixregular';
+		font-size:18px;
+		color:#FFFFFF;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:15px;
+	}
+a.hizlierisim_yazi:hover
+	{
+		font-family: 'glametrixregular';
+		font-size:18px;
+		color:#68a1f7;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:15px;
+	}
+	
+.index_icerik_2
+	{
+		font-family: 'glametrixregular';
+		font-size:20px;
+		color:#324852;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+.index_icerik_3
+	{
+		font-family: 'glametrixregular';
+		font-size:22px;
+		color:#ff4f01;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+	
+.index_icerik_4
+	{
+		font-family: 'glametrixregular';
+		font-size:22px;
+		color:#2e5061;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+.kullanici_menu2_link_yazi
+	{
+		font-family: 'glametrixregular';
+		font-size:18px;
+		color:#778e9c;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+a.kullanici_menu2_link_yazi:hover
+	{
+		font-family: 'glametrixregular';
+		font-size:18px;
+		color:#2f8fb1;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+
+.uyelik_secim_alt_yazi {font-family: 'glametrixregular';font-size:19px; color:#697e89;}	

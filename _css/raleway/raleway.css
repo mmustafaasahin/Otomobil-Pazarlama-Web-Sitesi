@@ -1,0 +1,77 @@
+@font-face
+	{
+		font-family: 'ralewayregular';
+		src: url('raleway-regular-webfont.html');
+		src: url('raleway-regular-webfontd41d.html?#iefix') format('embedded-opentype'),
+			 url('raleway-regular-webfont-2.html') format('woff'),
+			 url('raleway-regular-webfont-3.html') format('truetype'),
+			 url('raleway-regular-webfont.svg#ralewayregular') format('svg');
+	}
+.ic_sayfa_baslik1
+	{
+    	font-family: 'ralewayregular';
+		color:#ffffff;
+		font-size:26px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.ic_sayfa_baslik7
+	{
+    	font-family: 'ralewayregular';
+		color:#1b687d;
+		font-size:24px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.ic_sayfa_baslik8
+	{
+    	font-family: 'ralewayregular';
+		color:#1b687d;
+		font-size:18px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.link71
+	{
+		font-family: 'ralewayregular';
+		font-size:19px;
+		font-style:normal;
+		font-weight:bold;
+		color:#083643;
+		text-decoration:none;
+		
+	}
+a.link71:hover
+	{
+		font-family: 'ralewayregular';
+		font-size:19px;
+		font-style:normal;
+		font-weight:bold;
+		color:#1b687d;
+		text-decoration:none;
+		
+	}
+	
+.link72
+	{
+		font-family: 'ralewayregular';
+		font-size:15px;
+		font-style:normal;
+		font-weight:normal;
+		color:#638ba0;
+		text-decoration:none;
+	
+	}
+.kullanici_menu_ana_baslik
+	{
+    	font-family: 'ralewayregular';
+		color:#547f91;
+		font-size:15px;
+		font-style:normal;
+		font-weight:bold;
+		text-decoration:none;
+	}
+	

@@ -1,0 +1,166 @@
+@font-face {
+    font-family: 'ubuntu_condensedregular';
+    src: url('ubuntucondensed-regular-webfont.html');
+    src: url('ubuntucondensed-regular-webfontd41d.html?#iefix') format('embedded-opentype'),
+         url('ubuntucondensed-regular-webfont-2.html') format('woff'),
+         url('ubuntucondensed-regular-webfont-3.html') format('truetype'),
+         url('ubuntucondensed-regular-webfont.svg#ubuntu_condensedregular') format('svg');
+}
+.urunler_yazi
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#0b121e;
+		font-size:15px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+a.urunler_yazi:hover
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#c7213a;
+		font-size:15px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:underline;
+	}
+.ic_sayfa_baslik
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#de0124;
+		font-size:16px;
+		font-style:normal;
+		font-weight:bold;
+		text-decoration:none;
+	}
+.menu_yazi
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#ffffff;
+		font-size:13px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+a.menu_yazi:hover
+	{
+    	font-family:'ubuntu_condensedregular';
+		color:#ffffff;
+		font-size:13px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.menu_yazi1
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#3f515a;
+		font-size:14px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+a.menu_yazi1:hover
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#2f8fb1;
+		font-size:14px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.ic_sayfa_baslik4
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#ffffff;
+		font-size:20px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+.ic_sayfa_baslik5
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#000000;
+		font-size:20px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:1px;
+	}
+.ic_sayfa_baslik6
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#0f708e;
+		font-size:20px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:1px;
+	}
+.ic_sayfa_baslik10
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#ffffff;
+		font-size:18px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+		line-height:20px;
+	}
+.link70
+	{
+		font-family: 'ubuntu_condensedregular';
+		font-size:12px;
+		font-style:normal;
+		font-weight:normal;
+		color:#288ba6;
+		text-decoration:none;
+	}
+a.link70:hover
+	{
+		font-family: 'ubuntu_condensedregular';
+		font-size:12px;
+		font-style:normal;
+		font-weight:normal;
+		color:#f8b669;
+		text-decoration:none;
+		
+	}
+.dis_baslik1
+	{
+		font-family:'ubuntu_condensedregular';
+		font-size:20px;
+		font-style:normal;
+		font-weight:normal;
+		color:#2f8fb1;
+		text-decoration:none;	
+	}
+.dis_baslik2
+	{
+		font-family:'ubuntu_condensedregular';
+		font-size:13px;
+		font-style:normal;
+		font-weight:normal;
+		color:#000000;
+		text-decoration:none;	
+	}
+.dis_baslik3
+	{
+		font-family:'ubuntu_condensedregular';
+		font-size:14px;
+		font-style:normal;
+		font-weight:600;
+		color:#000000;
+		text-decoration:none;	
+	}
+.inc_kullanici
+	{
+    	font-family: 'ubuntu_condensedregular';
+		color:#484848;
+		font-size:12px;
+		font-style:normal;
+		font-weight:normal;
+		text-decoration:none;
+	}
+
